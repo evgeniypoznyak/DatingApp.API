@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration max_messages_per_file="100" tool_path="$USER_HOME$/repos/express-recoveries/phpmd.phar" />
+    </phpmd_settings>
+  </component>
+</project>
