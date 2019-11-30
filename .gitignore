@@ -2,6 +2,6 @@ bin/
 obj/
 /packages/
 .idea
-DatingApp.API/appsettings.Development.json
-#DatingApp.API/appsettings.json
+appsettings.Development.json
+appsettings.json
 DatingApp.API/datingapp.db
